@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlessandroTambellini
+- 👋 Hi, I’m @AlessandroTambellini (Alessandro Tambellini)
 - 👀 I’m interested in JavaScript with an eye to Design
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a fun and educational project
