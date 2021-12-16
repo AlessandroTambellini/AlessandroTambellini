@@ -6,7 +6,8 @@
 [1]: https://www.linkedin.com/in/alessandro-tambellini-3739321b9/
 
 ---
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://github.com/AlessandroTambellini/AlessandroTambellini/files/7729008/linkedin.pdf)][3]
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![icons8-linkedin-30](https://user-images.githubusercontent.com/77124802/146415171-ad20b984-d951-4c41-aafd-b7abe78edd7e.png)
+][3]
 ---
 [1]: http://www.github.com/your_contact_info
 [2]: https://www.linkedin.com/in/your_contact_info
