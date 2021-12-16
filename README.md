@@ -2,9 +2,9 @@
 - 👀 I’m interested in JavaScript, I love Design and CSS
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a fun and educational project
-- 📫 How to reach me: alessandrotambellini03@gmail.com
+- 📫 How to reach me: [linkedin.pdf](https://github.com/AlessandroTambellini/AlessandroTambellini/files/7729008/linkedin.pdf)[1]
+[1]: https://www.linkedin.com/in/alessandro-tambellini-3739321b9/
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 <!---
 AlessandroTambellini/AlessandroTambellini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
