@@ -5,7 +5,7 @@
 - 📫 How to reach me: alessandrotambellini03@gmail.com
 
 ---
-LinkedIn Profile [![icons8-linkedin-30](https://user-images.githubusercontent.com/77124802/146415681-5ea3c7e2-ddc1-4261-8a81-677ff5aca3f4.png)][1]
+[![icons8-linkedin-30](https://user-images.githubusercontent.com/77124802/146415681-5ea3c7e2-ddc1-4261-8a81-677ff5aca3f4.png)][1]
 ---
 
 [1]: https://www.linkedin.com/in/alessandro-tambellini-3739321b9/
