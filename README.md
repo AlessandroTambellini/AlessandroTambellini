@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alessandro Tambellini
-- 👀 I’m interested in JavaScript, I love Web Design
+- 👀 I’m interested in making the web more beautiful, faster and more accessible
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a fun and educational project
 - 📫 How to reach me: alessandrotambellini03@gmail.com
