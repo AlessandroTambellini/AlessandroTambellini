@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alessandro Tambellini
-- 👀 I’m interested in making the web more beautiful, faster and more accessible
+- 👀 
 - 🌱
 - 💞️
 - 📫 How to reach me: alessandrotambellini03@gmail.com
